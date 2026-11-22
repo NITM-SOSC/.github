@@ -1,0 +1,71 @@
+
+name: Feature Request
+description: Suggest a new feature, improvement or community initiative.
+title: "[FEATURE]: "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Have an idea that could make this project better?
+        Tell us about it. We welcome thoughtful suggestions.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or Motivation
+      description: What problem are you trying to solve?
+      placeholder: Describe the problem or opportunity.
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed Solution
+      description: Explain your proposed feature or improvement.
+      placeholder: How would you solve this problem?
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives Considered
+      description: Have you considered other approaches?
+    validations:
+      required: false
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Feature Category
+      options:
+        - User Experience
+        - Functionality
+        - Performance
+        - Security
+        - Accessibility
+        - Documentation
+        - Developer Experience
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: Add mockups, references, screenshots or examples.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: I have checked that a similar feature request does not already exist.
+          required: true
+        - label: This suggestion is relevant to the project.
+          required: true
