@@ -1,111 +1,104 @@
- <div align="center">
+<!-- NITM-SOSC | Organisation Profile -->
+
+<div align="center">
 
 # NITM-SOSC
 
 ### NIT Manipur Students' Open Source Community
 
-**BEYOND LEARNING. INTO BUILDING.**
+<br/>
 
-An independent, student-led community exploring technology, building meaningful software and contributing to the global open-source ecosystem.
+# Beyond learning.
+# <span style="color:#65E879;">Into building.</span>
+
+**Explore. Learn. Build. Contribute.**
+
+An independent, student-led community from NIT Manipur, bringing together curious minds to explore technology, build meaningful software and contribute to the global open-source ecosystem.
 
 <br/>
 
-[Explore Projects](https://github.com/orgs/NITM-SOSC/repositories) · [Join Discussions](https://github.com/orgs/NITM-SOSC/discussions)
-
-<br/>
-
-`EXPLORE` &nbsp; `LEARN` &nbsp; `BUILD` &nbsp; `CONTRIBUTE`
+[Explore Repositories](https://github.com/orgs/NITM-SOSC/repositories) &nbsp; · &nbsp; [Join Discussions](https://github.com/orgs/NITM-SOSC/discussions)
 
 </div>
 
 ---
 
-## 01 / THE PHILOSOPHY
+## 01 / THE COMMUNITY
 
-### Curiosity drives innovation.
+We believe the best way to understand technology is to explore it, experiment with it and build with it.
 
-We believe meaningful engineering happens through experimentation, independent learning and collaboration.
+NITM-SOSC is an independent space for students to learn beyond classrooms, exchange knowledge, collaborate on software and contribute to projects that make a difference.
 
-NITM-SOSC is a space where students go beyond consuming technology — exploring ideas, developing solutions and contributing to software that matters.
+We are not defined by a programming language, framework or particular technical discipline.
+
+We are driven by curiosity and the willingness to create.
+
+## 02 / WHAT WE BELIEVE IN
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**01 — Independent Learning**
+### Independent Learning
 
-Explore technologies, experiment with ideas and develop skills beyond the classroom.
+Explore technologies, experiment with ideas and develop skills through self-directed learning.
 
 </td>
 <td width="50%" valign="top">
 
-**02 — Open Collaboration**
+### Open Collaboration
 
-Exchange knowledge, collaborate with peers and connect with developers worldwide.
+Exchange knowledge, work together and learn from developers across the world.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**03 — Building in Public**
+### Building in Public
 
 Create, publish and maintain useful software through collaborative development.
 
 </td>
 <td width="50%" valign="top">
 
-**04 — Global Contribution**
+### Global Contribution
 
-Participate in established open-source projects and improve the wider software ecosystem.
+Participate in established open-source projects and contribute to the wider ecosystem.
 
 </td>
 </tr>
 </table>
 
-## 02 / AREAS OF EXPLORATION
+## 03 / AREAS OF EXPLORATION
 
-We explore technology without restricting ourselves to a particular programming language, framework or discipline.
+`OPEN SOURCE` &nbsp; `ARTIFICIAL INTELLIGENCE` &nbsp; `CYBERSECURITY`
 
-| Domain | Areas |
-|:--|:--|
-| Intelligence | Artificial Intelligence, Machine Learning |
-| Security | Cybersecurity, Information Security |
-| Engineering | Software Engineering, Systems Programming |
-| Infrastructure | Linux, DevOps, Cloud Computing |
-| Innovation | IoT, Emerging Technologies, Research |
+`LINUX` &nbsp; `SYSTEMS PROGRAMMING` &nbsp; `DEVOPS`
 
-## 03 / GET INVOLVED
+`CLOUD COMPUTING` &nbsp; `SOFTWARE ENGINEERING` &nbsp; `EMERGING TECHNOLOGIES`
 
-### Start exploring. Start contributing.
+Our interests evolve with the technologies we explore and the projects we build.
 
-Whether you're making your first Git commit or maintaining established software, there's room to participate.
+## 04 / GET INVOLVED
 
-- Explore community repositories and ongoing projects.
+Whether you're making your first contribution or maintaining established software, there's room to participate.
+
+- Explore community repositories.
 - Share technical discoveries and learning resources.
-- Participate in discussions and exchange ideas.
-- Find open issues and contribute improvements.
-- Build and maintain software with fellow students.
+- Participate in discussions and collaborative projects.
+- Contribute to existing open-source software.
+- Build and maintain projects with fellow students.
 
-**New to open source?** Start with our [Contribution Guidelines](https://github.com/NITM-SOSC/community/blob/main/CONTRIBUTING.md).
+**Start here:** [Contribution Guidelines](https://github.com/NITM-SOSC/community/blob/main/CONTRIBUTING.md)
 
-## 04 / OUR COMMUNITY
+## 05 / OUR VISION
 
-Initially, NITM-SOSC welcomes students from all departments and academic years of NIT Manipur.
+Starting at NIT Manipur, we aim to cultivate a sustainable culture of open-source learning and collaboration.
 
-No prior open-source experience is required. Curiosity, willingness to learn and respect for collaborative work matter most.
+Our long-term ambition is to connect aspiring student developers across colleges and universities throughout Manipur, creating opportunities to learn, build and contribute together.
 
-Our community is independent, student-led and driven by voluntary participation.
-
-## 05 / THE VISION
-
-### From NIT Manipur to the wider open-source ecosystem.
-
-We aim to cultivate a sustainable open-source culture at NIT Manipur.
-
-Our long-term ambition is to connect aspiring student developers across colleges and universities throughout Manipur, creating more opportunities for independent learning, collaborative development and meaningful contributions.
-
-We want to be part of a generation that doesn't just use technology — it builds, maintains and improves it.
+We want to be part of a generation that doesn't just use technology, but actively shapes it.
 
 ---
 
