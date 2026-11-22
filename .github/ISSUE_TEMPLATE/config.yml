@@ -1,0 +1,15 @@
+
+blank_issues_enabled: false
+
+contact_links:
+  - name: Community Discussions
+    url: https://github.com/orgs/NITM-SOSC/discussions
+    about: Ask questions, exchange ideas and connect with the community.
+
+  - name: Contribution Guidelines
+    url: https://github.com/NITM-SOSC/community/blob/main/CONTRIBUTING.md
+    about: Read our contribution guidelines before opening an issue.
+
+  - name: Community Resources
+    url: https://github.com/NITM-SOSC/community
+    about: Explore community documentation, resources and guidelines.
