@@ -6,8 +6,6 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/NITM-SOSC/.github/main/assets/logo.png" alt="NITM-SOSC Logo" width="110" />
-
 # NITM-SOSC
 
 ### NIT Manipur Students' Open Source Community
@@ -28,6 +26,9 @@ We break things to see how they work, ship real software, and learn out loud —
 <img src="https://img.shields.io/badge/Join_Discussions-161B22?style=for-the-badge&logo=github&logoColor=65E879" alt="Join Discussions" />
 </a>
 &nbsp;
+<a href="https://github.com/NITM-SOSC/community/blob/main/CONTRIBUTING.md">
+<img src="https://img.shields.io/badge/Start_Contributing-161B22?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Start Contributing" />
+</a>
 
 </div>
 
