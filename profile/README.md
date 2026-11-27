@@ -36,7 +36,7 @@ We break things to see how they work, ship real software, and learn out loud —
 
 ---
 
-## `01` // Who We Are
+## `01`  Who We Are
 
 Most of us don't really understand a piece of tech until we've broken it twice and fixed it at 2 AM.
 
@@ -46,7 +46,7 @@ No gatekeeping. Just curiosity, good code, and people willing to build.
 
 ---
 
-## `02` // How We Work
+## `02`  How We Work
 
 <table>
 <tr>
@@ -85,7 +85,7 @@ Campus is where we start, not where we stop. We help students make real contribu
 
 ---
 
-## `03` // What We Tinker With
+## `03`  What We Tinker With
 
 <div align="center">
 
@@ -119,7 +119,7 @@ Campus is where we start, not where we stop. We help students make real contribu
 
 ---
 
-## `04` // Jump In
+## `04`  Jump In
 
 You don't need to be an expert to contribute. Fixing a typo in a README, opening an issue, or asking a sharp question in Discussions all count.
 
@@ -133,7 +133,7 @@ You don't need to be an expert to contribute. Fixing a typo in a README, opening
 
 ---
 
-## `05` // Where We're Headed
+## `05`  Where We're Headed
 
 We're starting right here at **NIT Manipur** to build an open-source culture that actually lasts — one that keeps growing long after any single batch graduates.
 
